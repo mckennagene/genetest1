@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "stringutil"
+import "github.com/mckennagene/genetest1/stringutil"
 
 func main() {
 	fmt.Println(stringutil.Reverse("hello, world"))
